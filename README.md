@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harsha Guntreddi
+# Hi 👋, I'm Harsha Vardhan Guntreddi
 
 ## 🚀 Full Stack MERN Developer
 
