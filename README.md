@@ -7,7 +7,7 @@
 🎓 B.Tech CSE
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css,git,github,vscode" />
 </p>
 
 📍 Andhra Pradesh, India
