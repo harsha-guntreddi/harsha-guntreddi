@@ -1,4 +1,6 @@
-# Hi 👋, I'm Harsha Vardhan Guntreddi
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harsha+Vardhan+Guntreddi;Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 
 ## 🚀 Full Stack MERN Developer
 
