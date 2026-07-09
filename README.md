@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Harsha Guntreddi
 
-<!--
-**harsha-guntreddi/harsha-guntreddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack MERN Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 React | Node.js | Express | MongoDB
+
+📍 Andhra Pradesh, India
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Learning MERN Stack
+- 🎯 Building SkillForge Academy
+- 💼 Looking for Full Stack Opportunities
+
+---
+
+## 🛠 Tech Stack
+
+React | Node.js | Express | MongoDB | JavaScript | HTML | CSS | Git | GitHub
+
+---
+
+## 📂 Projects
+
+### 🎓 SkillForge Academy
+
+Learning Management System built using MERN Stack.
+
+### 💻 React Projects
+
+Various React Applications.
+
+---
+
+## 📫 Contact
+
+Email: hv639815@gmail.com
+
+LinkedIn: www.linkedin.com/in/harsha-vardhan-guntreddi-a15544328
