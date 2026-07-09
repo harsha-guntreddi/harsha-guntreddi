@@ -6,7 +6,9 @@
 
 🎓 B.Tech CSE
 
-💻 React | Node.js | Express | MongoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode,mysql" />
+</p>
 
 📍 Andhra Pradesh, India
 
@@ -43,3 +45,11 @@ Various React Applications.
 Email: hv639815@gmail.com
 
 LinkedIn: www.linkedin.com/in/harsha-vardhan-guntreddi-a15544328
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harsha-guntreddi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-guntreddi&layout=compact&theme=tokyonight" />
+</p>
